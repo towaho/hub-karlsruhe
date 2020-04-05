@@ -52,6 +52,13 @@ Beachtet bitte auch die Hinweise unter "Advanced Parameter Tuning" sowie Holes:
 * solid infill: 0.55mm
 * top solid infill: 0.55mm
 
+Hier zum Vergleich eine Detailaufnahme mit 0.87mm. Es sind an den T-Kreuzungen deutlich kleinere Löcher zu erkennen:
+![0.87mm external perimeters][0.87mmperimeters]
+Mit 1.00mm sind zwar noch kleine Rillen vorhanden, aber die Löcher sind zu:
+![1.00mm external perimeters][1mmperimeters]
+
+Alternativ könnt ihr auch wie von Yannic beschrieben den "Extrusion multiplier" erhöhen.
+
 Eine fertige Projektdatei für den PrusaSlicer mit passenden Einstellungen für den Prusa i3 findet ihr hier.
 
 ## Qualitätskontrolle
@@ -70,3 +77,6 @@ Bitte schnürt die Gestelle in 5er Paketen mit Schnur oder Draht zusammen und h�
 Das Desinfizieren der Teile ist nicht notwendig. Die Empfänger werden die Schilde sowieso desinfizieren und Desinfektionsmittel ist zur Zeit ebenfalls knapp.
 
 [shield]: images/shield.jpg "Faceshield"
+[1mmperimeters]: images/1.00.jpg "1.00mm external perimeters"
+[0.87mmperimeters]: images/0.87.jpg "0.87mm external perimeters"
+
