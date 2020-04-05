@@ -71,7 +71,7 @@ So sollte es **nicht** aussehen (Delamination)
 ![Delamination][delamination]
 
 
-Führt am besten nach eurem ersten Druck den [hier beschriebenen Test](https://github.com/towaho/face-shield/blob/master/quality_control.md) durch. Meldet euch bitte im #hub-karlsruhe wenn ihr Qualitätsprobleme habt. Vor der Abgabe/Abholung bitte alle Teile entsprechend prüfen.
+Führt am besten nach eurem ersten Druck den [hier beschriebenen Test](https://github.com/towaho/face-shield/blob/master/quality_control.md) durch. Meldet euch bitte im #hub-karlsruhe wenn ihr Qualitätsprobleme habt. **Vor der Abgabe/Abholung bitte alle Teile entsprechend prüfen.**
 
 ## Abgabe/Abholung
 Abgeben könnt die fertig gedruckten Teile in einem der beiden FabLabs:
@@ -89,13 +89,17 @@ Gebäude 5137c
 76646 Bruchsal
 ```
 
-Meistens wird hier im channel #hub-karlsruhe geschrieben, wenn jemand vor Ort ist. Im Google Docs gibt es aber auch eine Ampel, ob das Lab besetzt ist. Am besten stimmt ihr euch vorher ab, damit ihr euch nicht umsonst auf den Weg macht.
+Meistens wird hier im channel #hub-karlsruhe geschrieben, wenn jemand vor Ort ist. Im Google Docs gibt es aber auch eine Ampel, ob das Lab besetzt ist. Am besten stimmt ihr euch vorher mit uns ab, damit ihr euch nicht umsonst auf den Weg macht.
 
 Für alle die keine Möglichkeit haben, die Teile in Karlsruhe oder Bruchsal abzugeben, gibt auch ca. 2 mal die Woche eine Abholtour, bei der ihr eure Teile kontaktlos abholen lassen könnt. 
 
 Bitte schnürt die Gestelle in 5er Paketen mit Schnur oder Draht zusammen und hängt einen Anhänger mit slack-ID/e-Mail Adresse an. So können wir euch Feedback geben, wenn wir beim Zusammenbau auf Probleme stossen.
 
+TODO: Bild, Vorlage Packzettel
+
 Das Desinfizieren der Teile ist nicht notwendig. Die Empfänger werden die Schilde sowieso desinfizieren und Desinfektionsmittel ist zur Zeit ebenfalls knapp.
+
+Falls wir die gelieferten Teile nicht im Sheet eingetragen haben, meldet euch bitte noch einmal bei uns.
 
 [shield]: images/shield.jpg "Faceshield"
 [1mmperimeters]: images/1.00.jpg "1.00mm external perimeters"
