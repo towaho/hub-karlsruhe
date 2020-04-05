@@ -1,4 +1,4 @@
-# Herstellung der 3d Gestelle - vom Druck bis zur Anlieferung
+# Herstellung der Gestelle - vom Druck bis zur Anlieferung
 Vielen Dank, dass ihr uns mit dem Druck von Gestellen unterstützen wollt. Ihr findet hier alle wichtigen Informationen zum Ablauf im Hub Karlsruhe.
 Alle weiteren Informationen zur Orga sowie ein FAQ findet ihr in unserem Doc [Organisation HUB Karlsruhe](https://docs.google.com/spreadsheets/d/1wsZU-VTYREOStcnClETrNQFkIYqHXFwlxU8IcKh8BXk)
 
