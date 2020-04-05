@@ -9,6 +9,8 @@ Dieses Modell wird am meisten gewünscht und ist vor allem mit anderen Hubs komp
 
 Der Zusammenbau erfolgt in den beiden FabLabs. Ihr müsst also keine fertigen Schilde anliefern, sondern nur die gedruckten Gestelle. Falls ihr passende Folien oder Loch-Gummiband beschaffen könnt, meldet euch aber gerne im slack Kanal bei uns.
 
+![Faceshield][pictures/shield]
+
 ## Eintrag als Drucker
 Tragt euch bitte im [doc in der Tabelle "Kapazitäten Gestelle"](https://docs.google.com/spreadsheets/d/1wsZU-VTYREOStcnClETrNQFkIYqHXFwlxU8IcKh8BXk/edit#gid=0) ein und gebt bitte eure Slack ID mit an. Die beiden geliefert Spalten sind schreibgeschützt und werden von den beiden Hubs verwaltet.
 
