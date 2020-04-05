@@ -9,7 +9,7 @@ Dieses Modell wird am meisten gewünscht und ist vor allem mit anderen Hubs komp
 
 Der Zusammenbau erfolgt in den beiden FabLabs. Ihr müsst also keine fertigen Schilde anliefern, sondern nur die gedruckten Gestelle. Falls ihr passende Folien oder Loch-Gummiband beschaffen könnt, meldet euch aber gerne im slack Kanal bei uns.
 
-![Faceshield][pictures/shield]
+![Faceshield][shield]
 
 ## Eintrag als Drucker
 Tragt euch bitte im [doc in der Tabelle "Kapazitäten Gestelle"](https://docs.google.com/spreadsheets/d/1wsZU-VTYREOStcnClETrNQFkIYqHXFwlxU8IcKh8BXk/edit#gid=0) ein und gebt bitte eure Slack ID mit an. Die beiden geliefert Spalten sind schreibgeschützt und werden von den beiden Hubs verwaltet.
@@ -68,3 +68,5 @@ Für alle die keine Möglichkeit haben, die Teile in Karlsruhe oder Bruchsal abz
 Bitte schnürt die Gestelle in 5er Paketen mit Schnur oder Draht zusammen und hängt einen Anhänger mit slack-ID/e-Mail Adresse an. So können wir euch Feedback geben, wenn wir beim Zusammenbau auf Probleme stossen.
 
 Das Desinfizieren der Teile ist nicht notwendig. Die Empfänger werden die Schilde sowieso desinfizieren und Desinfektionsmittel ist zur Zeit ebenfalls knapp.
+
+[shield]: images/shield.jpg "Faceshield"
