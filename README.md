@@ -77,13 +77,17 @@ Führt am besten nach eurem ersten Druck den [hier beschriebenen Test](https://g
 Abgeben könnt die fertig gedruckten Teile in einem der beiden FabLabs:
 
 **FabLab Karlsruhe e.V.**
+```
 Alter Schlachthof 13a (gegenüber Substage / Alte Hackerei)
 76131 Karlsruhe
+```
 
 **FabLab Bruchsal e.V. i.G.**
+```
 Werner-von-Siemens-Straße 2-6
 Gebäude 5137c
 76646 Bruchsal
+```
 
 Meistens wird hier im channel #hub-karlsruhe geschrieben, wenn jemand vor Ort ist. Im Google Docs gibt es aber auch eine Ampel, ob das Lab besetzt ist. Am besten stimmt ihr euch vorher ab, damit ihr euch nicht umsonst auf den Weg macht.
 
