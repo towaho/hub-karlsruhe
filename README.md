@@ -19,13 +19,13 @@ Anzahl in Arbeit | Hier könnt ihr eintragen, wie viele Gestelle ihr zur Zeit gl
 mögliche Anzahl pro 24h | Tragt hier bitte nur ganze Zahlen ein und nicht "5-10" oder ähnliches.
 
 ## Material
-PETG sowie PLA gehen. Bevorzugt wird PETG, da besser reinigbar.
+PETG sowie PLA gehen. Bevorzugt wird PETG, da besser reinigbar. Die Farbe ist grundsätzlich egal. Sie sollte natürlich nicht ganz so peinlich sein. 
 
 ## STL Dateien
 ### Gestell
 Unsere Empfehlung: [Covid-19 Shield v18.stl von Yannic Schröder](https://github.com/yschroeder/face-shield/raw/master/stl/Covid-19%20Shield%20v18.stl)
 
-Wenn ihr Probleme mit der Haftung auf dem Druckbett habt, könnt ihr auch die [https://github.com/yschroeder/face-shield/raw/master/stl/Covid-19%20Shield%20v18%20Lily.stl](Version mit Lil Pads) nutzen. Das erhöht jedoch den Aufwand bei der Nachbearbeitung. Bei einem Drucker mit beheiztem Druckbett, richtig eingestellter Temperatur und korrekt justierter Z-Achse, solltet ihr aber auch ohne Pads keine Haftungsprobleme bekommen.
+Wenn ihr Probleme mit der Haftung auf dem Druckbett habt, könnt ihr auch die [Version mit Lil Pads](https://github.com/yschroeder/face-shield/raw/master/stl/Covid-19%20Shield%20v18%20Lily.stl) nutzen. Das erhöht jedoch den Aufwand bei der Nachbearbeitung. Bei einem Drucker mit beheiztem Druckbett, richtig eingestellter Temperatur und korrekt justierter Z-Achse, solltet ihr aber auch ohne Pads keine Haftungsprobleme bekommen.
 
 Für den Prusa i3 mit der Standard 0.4er nozzle findet ihr hier eine fertige Projektdatei mit zwei Oberteilen.
 
