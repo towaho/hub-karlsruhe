@@ -1,9 +1,13 @@
-# Ablauf vom Druck bis zur Anlieferung
-Wenn ihr uns mit eurem 3D-Drucker unterstützen wollt, findet ihr hier alle wichtigen Informationen zum Ablauf im Hub Karlsruhe.
+# Herstellung der 3d Gestelle - vom Druck bis zur Anlieferung
+Vielen Dank, dass ihr uns mit dem Druck von Gestellen unterstützen wollt. Ihr findet hier alle wichtigen Informationen zum Ablauf im Hub Karlsruhe.
 Alle weiteren Informationen zur Orga sowie ein FAQ findet ihr in unserem Doc [Organisation HUB Karlsruhe](https://docs.google.com/spreadsheets/d/1wsZU-VTYREOStcnClETrNQFkIYqHXFwlxU8IcKh8BXk)
 
-Zur Koordinierung nutzen wir slack. Bitte meldet euch bei uns im Kanal [#hub-karlsruhe](https://app.slack.com/client/T010HM3B6BS/C010VSH5RD5). Dort helfen wir euch gerne bei Fragen und Problemen und ihr bekommt Infos zum aktuellen Stand. 
+Die Koordinierung für den Großraum Karlsruhe erfolg im Kanal [#hub-karlsruhe](https://app.slack.com/client/T010HM3B6BS/C010VSH5RD5). Dort helfen wir euch gerne bei Fragen und Problemen und ihr bekommt Infos zum aktuellen Stand.
 
+In Karlsruhe wird aktuell ausschließlich das Modell Prusa rc3 bzw. die dazu lochkompatiblen Versionen V10 und V18 gedruckt.
+Dieses Modell wird am meisten gewünscht und ist vor allem mit anderen Hubs kompatibel. Wir möchten euch daher bitten, nur dieses zu drucken und anzuliefern. Achtet bitte darauf, dass ihr **NICHT** aus versehen die slim Variante druckt. Die STL-Dateien sowie Hinweise zum Drucken findet ihr weiter unten.
+
+Der Zusammenbau erfolgt in den beiden FabLabs. Ihr müsst also keine fertigen Schilde anliefern, sondern nur die gedruckten Gestellt. Falls ihr passende Folien oder Loch-Gummiband beschaffen könnt, meldet euch aber gerne im slack Kanal bei uns.
 
 ## Eintrag als Drucker
 Tragt euch bitte im [doc in der Tabelle "Kapazitäten Gestelle"](https://docs.google.com/spreadsheets/d/1wsZU-VTYREOStcnClETrNQFkIYqHXFwlxU8IcKh8BXk/edit#gid=0) ein und gebt bitte eure Slack ID mit an. Die beiden geliefert Spalten sind schreibgeschützt und werden von den beiden Hubs verwaltet.
@@ -18,7 +22,7 @@ mögliche Anzahl pro 24h | Tragt hier bitte nur ganze Zahlen ein und nicht "5-10
 PETG sowie PLA gehen. Bevorzugt wird PETG, da besser reinigbar.
 
 ## STL Dateien
-### Oberteil
+### Gestell
 Unsere Empfehlung: [Covid-19 Shield v18.stl von Yannic Schröder](https://github.com/yschroeder/face-shield/raw/master/stl/Covid-19%20Shield%20v18.stl)
 
 Wenn ihr Probleme mit der Haftung auf dem Druckbett habt, könnt ihr auch die [https://github.com/yschroeder/face-shield/raw/master/stl/Covid-19%20Shield%20v18%20Lily.stl](Version mit Lil Pads) nutzen. Das erhöht jedoch den Aufwand bei der Nachbearbeitung. Bei einem Drucker mit beheiztem Druckbett, richtig eingestellter Temperatur und korrekt justierter Z-Achse, solltet ihr aber auch ohne Pads keine Haftungsprobleme bekommen.
