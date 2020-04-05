@@ -43,7 +43,7 @@ Auch hier gibt es eine Version von Yannic, die sich mit den gleichen Einstellung
 * [Bottom Reinforcement light v10.stl](https://github.com/yschroeder/face-shield/raw/master/stl/Bottom%20Reinforcement%20light%20v10.stl)
 
 ## Druck
-Mit den Standardeinstellungen beträgt die Druckdauer eines Gestells ca. 2:30h. Die V18 ist von Yannic für den schnellen Druck optimiert worden. Bevor ihr diese nutzt, lest euch bitte vorher die [Doku von Yannic](https://github.com/yschroeder/face-shield) durch und stellt eueren Drucker entsprechend ein. Mit Yannics Einstellungen könnt ihr ein Oberteil mit einem prusa i3 in PETG in ca. 1:18h drucken. Zwei Schilde gleichzeitig in 2:32h. 
+Mit den Standardeinstellungen beträgt die Druckdauer eines Gestells ca. 2:30h. Die V18 ist von Yannic für den schnellen Druck optimiert worden. Bevor ihr diese nutzt, lest euch bitte vorher die [Doku von Yannic](https://github.com/yschroeder/face-shield) durch und stellt eueren Drucker entsprechend ein. Mit Yannics Einstellungen könnt ihr ein Oberteil mit einem prusa i3 in PETG in ca. **1:18h** drucken. Zwei Schilde gleichzeitig in 2:32h. 
 
 Beachtet bitte auch die Hinweise unter "Advanced Parameter Tuning" sowie Holes:
 * External perimeters: 1.00mm
@@ -56,7 +56,7 @@ Eine fertige Projektdatei für den PrusaSlicer mit passenden Einstellungen für 
 Die hier beschriebenen Tests gelten nur für die V18
 
 Viel wichtiger als die Druckzeit ist, dass die Qualität am Schluss stimmt. Prüft bitte insbesondere beim Druck der V18 mit nur zwei Perimeter, ob diese sauber miteinander kleben.
-Führt am besten nach eurem ersten Druck den hier beschriebenen Test durch. Meldet euch bitte im #hub-karlsruhe wenn ihr Qualitätsprobleme habt. Vor der Abgabe/Abholung bitte alle Teile entsprechend prüfen
+Führt am besten nach eurem ersten Druck den hier beschriebenen Test durch. Meldet euch bitte im #hub-karlsruhe wenn ihr Qualitätsprobleme habt. Vor der Abgabe/Abholung bitte alle Teile entsprechend prüfen.
 
 ## Abgabe/Abholung
 Abgeben kann man die fertig gedruckten Teile in einem der beiden FabLabs. Meistens wird hier im channel #hub-karlsruhe geschrieben, wenn jemand vor Ort ist. Im Google Docs gibt es aber auch eine Ampel, ob das Lab besetzt ist. Am besten stimmt ihr euch vorher ab, damit ihr euch nicht umsonst auf den Weg macht.
