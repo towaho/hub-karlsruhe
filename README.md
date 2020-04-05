@@ -54,6 +54,7 @@ Beachtet bitte auch die Hinweise unter "Advanced Parameter Tuning" sowie Holes:
 
 Hier zum Vergleich eine Detailaufnahme mit 0.87mm. Es sind an den T-Kreuzungen deutlich kleinere Löcher zu erkennen:
 ![0.87mm external perimeters][0.87mmperimeters]
+
 Mit 1.00mm sind zwar noch kleine Rillen vorhanden, aber die Löcher sind zu:
 ![1.00mm external perimeters][1mmperimeters]
 
@@ -62,10 +63,15 @@ Alternativ könnt ihr auch wie von Yannic beschrieben den "Extrusion multiplier"
 Eine fertige Projektdatei für den PrusaSlicer mit passenden Einstellungen für den Prusa i3 findet ihr hier.
 
 ## Qualitätskontrolle
-Die hier beschriebenen Tests gelten nur für die V18
+Die hier beschriebenen Tests gelten nur für die V18. Die anderen Modelle sind nicht so flexibel und könnten brechen obwohl sie für den Bau der Schilde nutzbar sind.
 
-Viel wichtiger als die Druckzeit ist, dass die Qualität am Schluss stimmt. Prüft bitte insbesondere beim Druck der V18 mit nur zwei Perimeter, ob diese sauber miteinander kleben.
-Führt am besten nach eurem ersten Druck den hier beschriebenen Test durch. Meldet euch bitte im #hub-karlsruhe wenn ihr Qualitätsprobleme habt. Vor der Abgabe/Abholung bitte alle Teile entsprechend prüfen.
+Viel wichtiger als die Druckzeit ist, dass die Qualität am Schluss stimmt. Prüft bitte insbesondere beim Druck der V18 mit nur zwei Perimeter, ob diese sauber miteinander kleben. 
+
+So sollte es **nicht** aussehen (Delamination)
+![Delamination][delamination]
+
+
+Führt am besten nach eurem ersten Druck den [hier beschriebenen Test](https://github.com/towaho/face-shield/blob/master/quality_control.md) durch. Meldet euch bitte im #hub-karlsruhe wenn ihr Qualitätsprobleme habt. Vor der Abgabe/Abholung bitte alle Teile entsprechend prüfen.
 
 ## Abgabe/Abholung
 Abgeben kann man die fertig gedruckten Teile in einem der beiden FabLabs. Meistens wird hier im channel #hub-karlsruhe geschrieben, wenn jemand vor Ort ist. Im Google Docs gibt es aber auch eine Ampel, ob das Lab besetzt ist. Am besten stimmt ihr euch vorher ab, damit ihr euch nicht umsonst auf den Weg macht.
@@ -79,4 +85,5 @@ Das Desinfizieren der Teile ist nicht notwendig. Die Empfänger werden die Schil
 [shield]: images/shield.jpg "Faceshield"
 [1mmperimeters]: images/1.00.jpg "1.00mm external perimeters"
 [0.87mmperimeters]: images/0.87.jpg "0.87mm external perimeters"
+[delamination]: images/delamination.jpg "Delamination"
 
