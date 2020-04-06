@@ -7,12 +7,16 @@ Die Koordinierung für den Großraum Karlsruhe erfolg im Kanal [#hub-karlsruhe](
 In Karlsruhe wird aktuell ausschließlich das Modell Prusa rc3 bzw. die dazu lochkompatiblen Versionen V10 und V18 gedruckt.
 Dieses Modell wird am meisten gewünscht und ist vor allem mit anderen Hubs kompatibel. Wir möchten euch daher bitten, nur dieses zu drucken und anzuliefern. Achtet bitte darauf, dass ihr **NICHT** aus versehen die slim Variante druckt. Die STL-Dateien sowie Hinweise zum Drucken findet ihr weiter unten.
 
-Der Zusammenbau erfolgt in den beiden FabLabs. Ihr müsst also keine fertigen Schilde anliefern, sondern nur die gedruckten Gestelle. Falls ihr passende Folien oder Loch-Gummiband beschaffen könnt, meldet euch aber gerne im slack Kanal bei uns.
+Der Zusammenbau erfolgt in den beiden FabLabs. Ihr müsst also keine fertigen Schilde anliefern, sondern nur die gedruckten Gestelle. Falls ihr passende Folien oder Loch-Gummiband beschaffen könnt, meldet euch aber gerne im slack Kanal bei uns oder direkt beim [Orga-Team](https://docs.google.com/spreadsheets/d/1wsZU-VTYREOStcnClETrNQFkIYqHXFwlxU8IcKh8BXk/edit#gid=139873882) per direct message.
 
 ![Faceshield][shield]
 
 ## Eintrag als Drucker
 Tragt euch bitte im [doc in der Tabelle "Kapazitäten Gestelle"](https://docs.google.com/spreadsheets/d/1wsZU-VTYREOStcnClETrNQFkIYqHXFwlxU8IcKh8BXk/edit#gid=0) ein und gebt bitte eure Slack ID mit an. Die beiden geliefert Spalten sind schreibgeschützt und werden von den beiden Hubs verwaltet.
+An eure Slack-ID kommt ihr wie folgt:
+* In Slack in deinem Fenster oben Links auf das Feld "MakerVSVirus" klicken
+* auf Profil Anzeigen / View Profile klicken
+* Der Link wird dann im Browser in der URL-Leiste angezeigt
 
 Spalte | Hinweise
 ------------ | -------------
@@ -50,9 +54,10 @@ Auch hier gibt es eine Version von Yannic, die sich mit den gleichen Einstellung
 Mit den Standardeinstellungen beträgt die Druckdauer eines Gestells ca. 2:30h. Die V18 ist von Yannic für den schnellen Druck optimiert worden. Bevor ihr diese nutzt, lest euch bitte vorher die [Doku von Yannic](https://github.com/yschroeder/face-shield) durch und stellt eueren Drucker entsprechend ein. Mit Yannics Einstellungen könnt ihr ein Oberteil mit einem prusa i3 in PETG in ca. **1:18h** drucken. Zwei Schilde gleichzeitig in 2:32h. 
 
 Beachtet bitte auch die Hinweise unter "Advanced Parameter Tuning" sowie Holes:
-* External perimeters: 1.00mm
-* solid infill: 0.55mm
-* top solid infill: 0.55mm
+**Extrusion width / Extrusionsbreite**
+* External perimeters / Außenkontouren: 1.00mm
+* solid infill / Massives Infill: 0.55mm
+* top solid infill / oberes massives Infill: 0.55mm
 
 Hier zum Vergleich eine Detailaufnahme mit 0.87mm. Es sind an den T-Kreuzungen deutlich kleinere Löcher zu erkennen:
 ![0.87mm external perimeters][0.87mmperimeters]
@@ -62,7 +67,11 @@ Mit 1.00mm sind zwar noch kleine Rillen vorhanden, aber die Löcher sind zu:
 
 Alternativ könnt ihr auch wie von Yannic beschrieben den "Extrusion multiplier" erhöhen.
 
-Eine fertige Projektdatei für den PrusaSlicer mit passenden Einstellungen für den Prusa i3 findet ihr hier.
+Eine fertige Projektdatei für den PrusaSlicer mit passenden Einstellungen für den Prusa i3 [findet ihr hier](stl/Covid-19_Shield_v18_twin.3mf).
+
+Das Drucken der Gestelle ist kein Wettbewerb wer am meisten druckt. Wenn ihr nicht die von Yannic empfohlenen Einstellungen nutzt, dann am besten mit 3 Perimeter (Wände) drucken. Vor dem ersten Druck sollte auch in der Vorschau überprüft werden, ob keine Lücken entstehen.
+
+Aktuell raten wir davon ab, die Gestelle übereinander als Stacks zu drucken. Die bisherigen Erfahrungen haben gezeigt, dass gut 80% der Stacks nicht verwendbar sind (kleben zu stark aneinander, Boden schlecht verklebt, Probleme beim Desinfizieren).
 
 ## Qualitätskontrolle
 Die hier beschriebenen Tests gelten nur für die V18. Die anderen Modelle sind nicht so flexibel und könnten brechen obwohl sie für den Bau der Schilde nutzbar sind.
@@ -93,15 +102,17 @@ Gebäude 5137c
 Tel.: +49 151 25351131
 ```
 
-Im Google Docs gibt es aber auch eine Ampel, ob das Lab besetzt ist. Fragt bitte vorher zur Sicherheit noch einmal telefonisch nach, damit ihr euch nicht umsonst auf den Weg macht.
+Im Google Docs gibt es eine Ampel, ob das Lab besetzt ist. Fragt bitte vorher zur Sicherheit noch einmal telefonisch nach, damit ihr euch nicht umsonst auf den Weg macht.
 
 Für alle die keine Möglichkeit haben, die Teile in Karlsruhe oder Bruchsal abzugeben, gibt auch ca. 2 mal die Woche eine Abholtour, bei der ihr eure Teile kontaktlos abholen lassen könnt. 
 
-Bitte schnürt die Gestelle in 5er Paketen mit Schnur oder Draht zusammen und hängt einen Anhänger mit slack-ID/e-Mail Adresse an. So können wir euch Feedback geben, wenn wir beim Zusammenbau auf Probleme stossen.
+Bitte schnürt die Gestelle in 5er Paketen mit Schnur oder Draht zusammen und hängt einen Anhänger mit slack-ID/e-Mail Adresse an. So können wir euch Feedback geben, wenn wir beim Zusammenbau auf Probleme stossen. Hier gibt es Vorlagen zum Lochen oder für Klebelabel:
+
+* [Label für Libreoffice](doc/label.odt)
+* [Label für MS Office](doc/label.docx)
 
 ![Fertig zur Abgabe][package]
 
-TODO: Bild, Vorlage Packzettel
 
 Das Desinfizieren der Teile ist nicht notwendig. Die Empfänger werden die Schilde sowieso desinfizieren und Desinfektionsmittel ist zur Zeit ebenfalls knapp.
 
