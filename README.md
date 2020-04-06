@@ -16,7 +16,7 @@ Tragt euch bitte im [doc in der Tabelle "Kapazitäten Gestelle"](https://docs.go
 
 Spalte | Hinweise
 ------------ | -------------
-Anzahl gedruckt | Hier bitte die Summe alle bereits gedruckten Gestelle eintragen (inklusive der bereits ans HUB gelieferten)
+Anzahl gedruckt | Hier bitte die Summe aller bereits gedruckten Gestelle eintragen (inklusive der bereits ans HUB gelieferten)
 Anzahl in Arbeit | Hier könnt ihr eintragen, wie viele Gestelle ihr zur Zeit gleichzeitig im Druck habt. Wenn ihr gerade nicht drucken könnt, bitte auf 0 ändern.
 mögliche Anzahl pro 24h | Tragt hier bitte nur ganze Zahlen ein und nicht "5-10" oder ähnliches.
 
