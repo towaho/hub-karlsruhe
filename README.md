@@ -7,16 +7,17 @@ Die Koordinierung für den Großraum Karlsruhe erfolg im Kanal [#hub-karlsruhe](
 In Karlsruhe wird aktuell ausschließlich das Modell Prusa rc3 bzw. die dazu lochkompatiblen Versionen V10 und V18 gedruckt.
 Dieses Modell wird am meisten gewünscht und ist vor allem mit anderen Hubs kompatibel. Wir möchten euch daher bitten, nur dieses zu drucken und anzuliefern. Achtet bitte darauf, dass ihr **NICHT** aus versehen die slim Variante druckt. Die STL-Dateien sowie Hinweise zum Drucken findet ihr weiter unten.
 
-Der Zusammenbau erfolgt in den beiden FabLabs. Ihr müsst also keine fertigen Schilde anliefern, sondern nur die gedruckten Gestelle. Falls ihr passende Folien oder Loch-Gummiband beschaffen könnt, meldet euch aber gerne im slack Kanal bei uns oder direkt beim [Orga-Team](https://docs.google.com/spreadsheets/d/1wsZU-VTYREOStcnClETrNQFkIYqHXFwlxU8IcKh8BXk/edit#gid=139873882) per direct message.
+Der Zusammenbau erfolgt in den beiden FabLabs. Ihr müsst also keine fertigen Schilde anliefern, sondern nur die gedruckten Gestelle und Stabis. Falls ihr passende Folien oder Loch-Gummiband beschaffen könnt, meldet euch aber gerne im slack Kanal bei uns oder direkt beim [Orga-Team](https://docs.google.com/spreadsheets/d/1wsZU-VTYREOStcnClETrNQFkIYqHXFwlxU8IcKh8BXk/edit#gid=139873882) per direct message.
 
 ![Faceshield][shield]
 
 ## Eintrag als Drucker
-Tragt euch bitte im [doc in der Tabelle "Kapazitäten Gestelle"](https://docs.google.com/spreadsheets/d/1wsZU-VTYREOStcnClETrNQFkIYqHXFwlxU8IcKh8BXk/edit#gid=0) ein und gebt bitte eure Slack ID mit an. Die beiden geliefert Spalten sind schreibgeschützt und werden von den beiden Hubs verwaltet.
-An eure Slack-ID kommt ihr wie folgt:
+Tragt euch bitte im [doc in der Tabelle "Kapazitäten Gestelle"](https://docs.google.com/spreadsheets/d/1wsZU-VTYREOStcnClETrNQFkIYqHXFwlxU8IcKh8BXk/edit#gid=0) ein und gebt bitte eure Slack ID mit an. An eure Slack-ID kommt ihr wie folgt:
 * In Slack in deinem Fenster oben Links auf das Feld "MakerVSVirus" klicken
 * auf Profil Anzeigen / View Profile klicken
 * Der Link wird dann im Browser in der URL-Leiste angezeigt
+
+Die beiden geliefert Spalten sind schreibgeschützt und werden von den beiden Hubs verwaltet.
 
 Spalte | Hinweise
 ------------ | -------------
@@ -31,15 +32,14 @@ PETG sowie PLA gehen. Bevorzugt wird PETG, da besser reinigbar. Die Farbe ist gr
 ### Gestell
 Unsere Empfehlung: [Covid-19 Shield v18.stl von Yannic Schröder](https://github.com/yschroeder/face-shield/raw/master/stl/Covid-19%20Shield%20v18.stl)
 
-Wenn ihr Probleme mit der Haftung auf dem Druckbett habt, könnt ihr auch die [Version mit Lil Pads](https://github.com/yschroeder/face-shield/raw/master/stl/Covid-19%20Shield%20v18%20Lily.stl) nutzen. Das erhöht jedoch den Aufwand bei der Nachbearbeitung. Bei einem Drucker mit beheiztem Druckbett, richtig eingestellter Temperatur und korrekt justierter Z-Achse, solltet ihr aber auch ohne Pads keine Haftungsprobleme bekommen.
+Wenn ihr Probleme mit der Haftung auf dem Druckbett habt, könnt ihr auch die [Version mit Lily Pads](https://github.com/yschroeder/face-shield/raw/master/stl/Covid-19%20Shield%20v18%20Lily.stl) nutzen. Das erhöht jedoch den Aufwand bei der Nachbearbeitung. Bei einem Drucker mit beheiztem Druckbett, richtig eingestellter Temperatur und korrekt justierter Z-Achse, solltet ihr aber auch ohne Pads keine Haftungsprobleme bekommen.
 
-Für den Prusa i3 mit der Standard 0.4er nozzle findet ihr [hier eine fertige Projektdatei](stl/Covid-19_Shield_v18_twin.3mf) mit zwei Oberteilen.
+Für den Prusa i3 mit der Standard 0.4er nozzle findet ihr [hier eine fertige Projektdatei](https://github.com/towaho/hub-karlsruhe/raw/master/stl/Covid-19_Shield_v18_twin.3mf) mit zwei Oberteilen. Der [PrusaSlicer 2.2](https://www.prusa3d.de/prusaslicer/) unterstützt auch out of the box den Ender 3.
 
-#### Alternativen
+#### Alternativen (Bitte NICHT die slim Variante drucken)
 * [Prusa rc3 ohne Text](https://media.prusaprinters.org/media/prints/25857/stls/270587_b59f75d0-4b8a-4999-8417-e5e75874ff98/covid19_headband_rc3.stl)
 * [Covid-19 Shield v10](https://github.com/yschroeder/face-shield/raw/master/stl/Covid-19%20Shield%20v10.stl)
 
-**Bitte nicht die Slim Variante drucken**
 
 Wenn euer Druckbett für die Gestelle zu klein ist, dann wäre es klasse, wenn ihr uns mit dem Druck der Stabis unterstützt. Es gibt zwar von Prusa auch eine Vorlage für kleinere Druckbette, diese müssen aber zusammen geklebt werden. Wir haben jedoch das Feedback erhalten, dass bei diesen der Tragekomfort nicht so gut ist. Daher diese Version bitte nicht mehr drucken.
 
@@ -51,9 +51,10 @@ Auch hier gibt es eine Version von Yannic, die sich mit den gleichen Einstellung
 * [Bottom Reinforcement light v10.stl](https://github.com/yschroeder/face-shield/raw/master/stl/Bottom%20Reinforcement%20light%20v10.stl)
 
 ## Druck
-Mit den Standardeinstellungen beträgt die Druckdauer eines Gestells ca. 2:30h. Die V18 ist von Yannic für den schnellen Druck optimiert worden. Bevor ihr diese nutzt, lest euch bitte vorher die [Doku von Yannic](https://github.com/yschroeder/face-shield) durch und stellt eueren Drucker entsprechend ein. Mit Yannics Einstellungen könnt ihr ein Oberteil mit einem prusa i3 in PETG in ca. **1:18h** drucken. Zwei Schilde gleichzeitig in 2:32h. 
+Mit den Standardeinstellungen beträgt die Druckdauer eines Gestells in PETG ca. 2:30h. Die V18 ist von Yannic für den schnellen Druck optimiert worden. Bevor ihr diese nutzt, lest euch bitte vorher die [Doku von Yannic](https://github.com/yschroeder/face-shield) durch und stellt eueren Drucker entsprechend ein. Mit Yannics Einstellungen könnt ihr ein Oberteil mit einem prusa i3 in PETG in ca. **1:18h** drucken. Zwei Gestelle gleichzeitig in 2:32h. Mit PLA geht es sogar noch schneller (1:38h für zwei Gestelle).
 
 Beachtet bitte auch die Hinweise unter "Advanced Parameter Tuning" sowie Holes:
+
 **Extrusion width / Extrusionsbreite**
 * External perimeters / Außenkontouren: 1.00mm
 * solid infill / Massives Infill: 0.55mm
@@ -67,7 +68,7 @@ Mit 1.00mm sind zwar noch kleine Rillen vorhanden, aber die Löcher sind zu:
 
 Alternativ könnt ihr auch wie von Yannic beschrieben den "Extrusion multiplier" erhöhen.
 
-Eine fertige Projektdatei für den PrusaSlicer mit passenden Einstellungen für den Prusa i3 [findet ihr hier](stl/Covid-19_Shield_v18_twin.3mf).
+### Hinweise
 
 Das Drucken der Gestelle ist kein Wettbewerb wer am meisten druckt. Wenn ihr nicht die von Yannic empfohlenen Einstellungen nutzt, dann am besten mit 3 Perimeter (Wände) drucken. Vor dem ersten Druck sollte auch in der Vorschau überprüft werden, ob keine Lücken entstehen.
 
