@@ -43,7 +43,7 @@ Für den Prusa i3 mit der Standard 0.4er nozzle findet ihr [hier eine fertige Pr
 
 Wenn euer Druckbett für die Gestelle zu klein ist, dann wäre es klasse, wenn ihr uns mit dem Druck der Stabis unterstützt. Es gibt zwar von Prusa auch eine Vorlage für kleinere Druckbette, diese müssen aber zusammen geklebt werden. Wir haben jedoch das Feedback erhalten, dass bei diesen der Tragekomfort nicht so gut ist. Daher diese Version bitte nicht mehr drucken.
 
-### Stabi (Unterteil)
+### Stabi ("Kleiderbügel")
 Bei den aktuell verfügbaren Folien wird im Normalfall kein Stabi benötigt. Wir geben diese daher zur Zeit nur auf Nachfrage aus. Sie werden aber von uns angenommen. Unsere Empfehlung: zu 50 bis max 75 Prozent mit drucken.
 
 Auch hier gibt es eine Version von Yannic, die sich mit den gleichen Einstellungen wie die V18 in wenigen Minuten drucken lässt. Diese lässt sich sehr leicht befestigen und passt für alle Folienstärken
@@ -51,7 +51,7 @@ Auch hier gibt es eine Version von Yannic, die sich mit den gleichen Einstellung
 * [Bottom Reinforcement light v10.stl](https://github.com/yschroeder/face-shield/raw/master/stl/Bottom%20Reinforcement%20light%20v10.stl)
 
 ## Druck
-Mit den Standardeinstellungen beträgt die Druckdauer eines Gestells in PETG ca. 2:30h. Die V18 ist von Yannic für den schnellen Druck optimiert worden. Bevor ihr diese nutzt, lest euch bitte vorher die [Doku von Yannic](https://github.com/yschroeder/face-shield) durch und stellt eueren Drucker entsprechend ein. Mit Yannics Einstellungen könnt ihr ein Oberteil mit einem prusa i3 in PETG in ca. **1:18h** drucken. Zwei Gestelle gleichzeitig in 2:32h. Mit PLA geht es sogar noch schneller (1:38h für zwei Gestelle).
+Mit den Standardeinstellungen beträgt die Druckdauer eines Gestells in PETG ca. 2:30h. Die V18 ist von Yannic für den schnellen Druck optimiert worden. Bevor ihr diese nutzt, lest euch bitte vorher die [Doku von Yannic](https://github.com/yschroeder/face-shield) durch und stellt eueren Drucker entsprechend ein. Mit Yannics Einstellungen könnt ihr ein Oberteil mit einem prusa i3 in PETG in ca. **0:43h** drucken. Zwei Gestelle gleichzeitig in 1:27h.
 
 Beachtet bitte auch die Hinweise unter "Advanced Parameter Tuning" sowie Holes:
 
@@ -68,6 +68,8 @@ Mit 1.00mm sind zwar noch kleine Rillen vorhanden, aber die Löcher sind zu:
 
 Alternativ könnt ihr auch wie von Yannic beschrieben den "Extrusion multiplier" erhöhen.
 
+Wenn ihr die oben verlinkte Projektdatei nutzt, sind die hier beschriebenen Einstellungen schon alle mit drin. Um die angebenenen Druckzeiten zu erreichen, müsst ihr aber auch noch wie von Yannic beschrieben die Werte für "Max volumetric speed" unter "Filament Settings" -> Advanced -> "Print speed override" anpassen. Ein guter Startwert ist 8 mm³/s. Der i3 schafft mit 0.4er nozzle aber im Normalfall auch 17mm³/s. Am besten erhöht ihr wie von Yannic beschrieben den Wert in 2er Schritten, bis ihr einen optimalen Wert für euren Drucker gefunden habt.
+
 ### Hinweise
 
 Das Drucken der Gestelle ist kein Wettbewerb wer am meisten druckt. Wenn ihr nicht die von Yannic empfohlenen Einstellungen nutzt, dann am besten mit 3 Perimeter (Wände) drucken. Vor dem ersten Druck sollte auch in der Vorschau überprüft werden, ob keine Lücken entstehen.
@@ -75,7 +77,7 @@ Das Drucken der Gestelle ist kein Wettbewerb wer am meisten druckt. Wenn ihr nic
 Aktuell raten wir davon ab, die Gestelle übereinander als Stacks zu drucken. Die bisherigen Erfahrungen haben gezeigt, dass gut 80% der Stacks nicht verwendbar sind (kleben zu stark aneinander, Boden schlecht verklebt, Probleme beim Desinfizieren).
 
 ## Qualitätskontrolle
-Die hier beschriebenen Tests gelten nur für die V18. Die anderen Modelle sind nicht so flexibel und könnten brechen obwohl sie für den Bau der Schilde nutzbar sind.
+**Die hier beschriebenen Tests gelten nur für die V18**. Die anderen Modelle sind nicht so flexibel und könnten brechen obwohl sie für den Bau der Schilde nutzbar sind.
 
 Viel wichtiger als die Druckzeit ist, dass die Qualität am Schluss stimmt. Prüft bitte insbesondere beim Druck der V18 mit nur zwei Perimeter, ob diese sauber miteinander kleben. 
 
