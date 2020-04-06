@@ -71,7 +71,7 @@ So sollte es **nicht** aussehen (Delamination)
 ![Delamination][delamination]
 
 
-Führt am besten nach eurem ersten Druck den [hier beschriebenen Test](https://github.com/towaho/face-shield/blob/master/quality_control.md) durch. Meldet euch bitte im #hub-karlsruhe wenn ihr Qualitätsprobleme habt. **Vor der Abgabe/Abholung bitte alle Teile entsprechend prüfen.**
+Führt am besten nach eurem ersten Druck den [hier beschriebenen Test](https://github.com/yschroeder/face-shield/blob/master/quality_control.md) durch. Meldet euch bitte im #hub-karlsruhe wenn ihr Qualitätsprobleme habt. **Vor der Abgabe/Abholung bitte alle Teile entsprechend prüfen.**
 
 ## Abgabe/Abholung
 Abgeben könnt die fertig gedruckten Teile in einem der beiden FabLabs:
