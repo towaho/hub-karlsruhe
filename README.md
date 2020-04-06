@@ -108,8 +108,8 @@ Für alle die keine Möglichkeit haben, die Teile in Karlsruhe oder Bruchsal abz
 
 Bitte schnürt die Gestelle in 5er Paketen mit Schnur oder Draht zusammen und hängt einen Anhänger mit slack-ID/e-Mail Adresse an. So können wir euch Feedback geben, wenn wir beim Zusammenbau auf Probleme stossen. Hier gibt es Vorlagen zum Lochen oder für Klebelabel:
 
-* [Label für Libreoffice](doc/label.odt)
-* [Label für MS Office](doc/label.docx)
+* [Label für Libreoffice](https://github.com/towaho/hub-karlsruhe/raw/master/doc/label.odt)
+* [Label für MS Office](https://github.com/towaho/hub-karlsruhe/raw/master/doc/label.docx)
 
 ![Fertig zur Abgabe][package]
 
