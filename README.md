@@ -29,13 +29,15 @@ Unsere Empfehlung: [Covid-19 Shield v18.stl von Yannic Schröder](https://github
 
 Wenn ihr Probleme mit der Haftung auf dem Druckbett habt, könnt ihr auch die [Version mit Lil Pads](https://github.com/yschroeder/face-shield/raw/master/stl/Covid-19%20Shield%20v18%20Lily.stl) nutzen. Das erhöht jedoch den Aufwand bei der Nachbearbeitung. Bei einem Drucker mit beheiztem Druckbett, richtig eingestellter Temperatur und korrekt justierter Z-Achse, solltet ihr aber auch ohne Pads keine Haftungsprobleme bekommen.
 
-Für den Prusa i3 mit der Standard 0.4er nozzle findet ihr hier eine fertige Projektdatei mit zwei Oberteilen.
+Für den Prusa i3 mit der Standard 0.4er nozzle findet ihr [hier eine fertige Projektdatei](stl/Covid-19_Shield_v18_twin.3mf) mit zwei Oberteilen.
 
 #### Alternativen
 * [Prusa rc3 ohne Text](https://media.prusaprinters.org/media/prints/25857/stls/270587_b59f75d0-4b8a-4999-8417-e5e75874ff98/covid19_headband_rc3.stl)
 * [Covid-19 Shield v10](https://github.com/yschroeder/face-shield/raw/master/stl/Covid-19%20Shield%20v10.stl)
 
 **Bitte nicht die Slim Variante drucken**
+
+Wenn euer Druckbett für die Gestelle zu klein ist, dann wäre es klasse, wenn ihr uns mit dem Druck der Stabis unterstützt. Es gibt zwar von Prusa auch eine Vorlage für kleinere Druckbette, diese müssen aber zusammen geklebt werden. Wir haben jedoch das Feedback erhalten, dass bei diesen der Tragekomfort nicht so gut ist. Daher diese Version bitte nicht mehr drucken.
 
 ### Stabi (Unterteil)
 Bei den aktuell verfügbaren Folien wird im Normalfall kein Stabi benötigt. Wir geben diese daher zur Zeit nur auf Nachfrage aus. Sie werden aber von uns angenommen. Unsere Empfehlung: zu 50 bis max 75 Prozent mit drucken.
@@ -80,6 +82,7 @@ Abgeben könnt die fertig gedruckten Teile in einem der beiden FabLabs:
 ```
 Alter Schlachthof 13a (gegenüber Substage / Alte Hackerei)
 76131 Karlsruhe
+Tel.:  +49 721 60906012	
 ```
 
 **FabLab Bruchsal e.V. i.G.**
@@ -87,13 +90,16 @@ Alter Schlachthof 13a (gegenüber Substage / Alte Hackerei)
 Werner-von-Siemens-Straße 2-6
 Gebäude 5137c
 76646 Bruchsal
+Tel.: +49 151 25351131
 ```
 
-Meistens wird hier im channel #hub-karlsruhe geschrieben, wenn jemand vor Ort ist. Im Google Docs gibt es aber auch eine Ampel, ob das Lab besetzt ist. Am besten stimmt ihr euch vorher mit uns ab, damit ihr euch nicht umsonst auf den Weg macht.
+Im Google Docs gibt es aber auch eine Ampel, ob das Lab besetzt ist. Fragt bitte vorher zur Sicherheit noch einmal telefonisch nach, damit ihr euch nicht umsonst auf den Weg macht.
 
 Für alle die keine Möglichkeit haben, die Teile in Karlsruhe oder Bruchsal abzugeben, gibt auch ca. 2 mal die Woche eine Abholtour, bei der ihr eure Teile kontaktlos abholen lassen könnt. 
 
 Bitte schnürt die Gestelle in 5er Paketen mit Schnur oder Draht zusammen und hängt einen Anhänger mit slack-ID/e-Mail Adresse an. So können wir euch Feedback geben, wenn wir beim Zusammenbau auf Probleme stossen.
+
+![Fertig zur Abgabe][package]
 
 TODO: Bild, Vorlage Packzettel
 
@@ -105,4 +111,5 @@ Falls wir die gelieferten Teile nicht im Sheet eingetragen haben, meldet euch bi
 [1mmperimeters]: images/1.00.jpg "1.00mm external perimeters"
 [0.87mmperimeters]: images/0.87.jpg "0.87mm external perimeters"
 [delamination]: images/delamination.jpg "Delamination"
+[package]: images/package.jpg "Fertig zur Abgabe"
 
