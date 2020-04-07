@@ -51,7 +51,7 @@ Auch hier gibt es eine Version von Yannic, die sich mit den gleichen Einstellung
 * [Bottom Reinforcement light v10.stl](https://github.com/yschroeder/face-shield/raw/master/stl/Bottom%20Reinforcement%20light%20v10.stl)
 
 ## Druck
-Mit den Standardeinstellungen beträgt die Druckdauer eines Gestells in PETG ca. 2:30h. Die V18 ist von Yannic für den schnellen Druck optimiert worden. Bevor ihr diese nutzt, lest euch bitte vorher die [Doku von Yannic](https://github.com/yschroeder/face-shield) durch und stellt eueren Drucker entsprechend ein. Mit Yannics Einstellungen könnt ihr ein Oberteil mit einem prusa i3 in PETG in ca. **0:43h** drucken. Zwei Gestelle gleichzeitig in 1:27h.
+Mit den Standardeinstellungen beträgt die Druckdauer eines Gestells in PETG ca. 2:30h. Die V18 ist von Yannic für den schnellen Druck optimiert worden. Bevor ihr diese nutzt, lest euch bitte vorher die [Doku von Yannic](https://github.com/yschroeder/face-shield) durch und stellt eueren Drucker entsprechend ein. Eine [deutsche Übersetzung](https://github.com/crix26/face-shield/blob/master/README.md) erstellt aktuell Christoph C. Mit Yannics Einstellungen könnt ihr ein Oberteil mit einem prusa i3 in PETG in ca. **0:43h** drucken. Zwei Gestelle gleichzeitig in 1:27h.
 
 Beachtet bitte auch die Hinweise unter "Advanced Parameter Tuning" sowie Holes:
 
