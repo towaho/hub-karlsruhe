@@ -85,6 +85,8 @@ Beachtet bitte, dass es sich hierbei um PET und nicht um PETG handelt. Der Schme
 
 Ein wenig stringing hatten wir auch mit diesen Einstellungen noch. Meldet euch gerne im channel, wenn ihr Probleme oder bessere Einstellungen gefunden habt.
 
+Wer cura nutzt, findet hier auf der [Herstellerseite](https://www.ultrafusefff.com/3dprintingprofiles/) Profile für das Filament. Diese haben wir aber aktuell noch nicht getestet.
+
 ## Qualitätskontrolle
 **Die hier beschriebenen Tests gelten nur für die V18**. Die anderen Modelle sind nicht so flexibel und könnten brechen obwohl sie für den Bau der Schilde nutzbar sind.
 
