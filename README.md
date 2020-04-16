@@ -76,6 +76,15 @@ Das Drucken der Gestelle ist kein Wettbewerb wer am meisten druckt. Wenn ihr nic
 
 Aktuell raten wir davon ab, die Gestelle übereinander als Stacks zu drucken. Die bisherigen Erfahrungen haben gezeigt, dass gut 80% der Stacks nicht verwendbar sind (kleben zu stark aneinander, Boden schlecht verklebt, Probleme beim Desinfizieren).
 
+### Empfehlungen für das BASF PET Fillament
+Beachtet bitte, dass es sich hierbei um PET und nicht um PETG handelt. Der Schmelzpunkt ist niedriger und somit auch die Drucktemperatur. Als Ausgangswerte für eigene Tests eignen sich:
+* Druckbett 75°C
+* Nozzle: 220°C 
+* Lüfter: 100%, durchgängig an, bis auf die ersten 1-2 Schichten
+* Geschwindigkeit: max 60mm/s
+
+Ein wenig stringing hatten wir auch mit diesen Einstellungen noch. Meldet euch gerne im channel, wenn ihr Probleme oder bessere Einstellungen gefunden habt.
+
 ## Qualitätskontrolle
 **Die hier beschriebenen Tests gelten nur für die V18**. Die anderen Modelle sind nicht so flexibel und könnten brechen obwohl sie für den Bau der Schilde nutzbar sind.
 
