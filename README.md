@@ -41,14 +41,10 @@ Für den Prusa i3 mit der Standard 0.4er nozzle findet ihr [hier eine fertige Pr
 * [Covid-19 Shield v10](https://github.com/yschroeder/face-shield/raw/master/stl/Covid-19%20Shield%20v10.stl)
 
 
-Wenn euer Druckbett für die Gestelle zu klein ist, dann wäre es klasse, wenn ihr uns mit dem Druck der Stabis unterstützt. Es gibt zwar von Prusa auch eine Vorlage für kleinere Druckbette, diese müssen aber zusammen geklebt werden. Wir haben jedoch das Feedback erhalten, dass bei diesen der Tragekomfort nicht so gut ist. Daher diese Version bitte nicht mehr drucken.
+Es gibt zwar von Prusa auch eine Vorlage für kleinere Druckbette, diese müssen aber zusammen geklebt werden. Wir haben jedoch das Feedback erhalten, dass bei diesen der Tragekomfort nicht so gut ist. Daher diese Version bitte nicht mehr drucken.
 
-### Stabi ("Kleiderbügel")
-Bei den aktuell verfügbaren Folien wird im Normalfall kein Stabi benötigt. Wir geben diese daher zur Zeit nur auf Nachfrage aus. Sie werden aber von uns angenommen. Unsere Empfehlung: zu 50 bis max 75 Prozent mit drucken.
-
-Auch hier gibt es eine Version von Yannic, die sich mit den gleichen Einstellungen wie die V18 in wenigen Minuten drucken lässt. Diese lässt sich sehr leicht befestigen und passt für alle Folienstärken
-
-* [Bottom Reinforcement light v10.stl](https://github.com/yschroeder/face-shield/raw/master/stl/Bottom%20Reinforcement%20light%20v10.stl)
+### Stabi ("Unterteil")
+Das Unterteil bitte nicht mehr drucken. Zur Zeit liefern wir alle Schilde ohne aus, da die Folie dick genug ist.
 
 ## Druck
 Mit den Standardeinstellungen beträgt die Druckdauer eines Gestells in PETG ca. 2:30h. Die V18 ist von Yannic für den schnellen Druck optimiert worden. Bevor ihr diese nutzt, lest euch bitte vorher die [Doku von Yannic](https://github.com/yschroeder/face-shield) durch und stellt eueren Drucker entsprechend ein. Eine [deutsche Übersetzung](https://github.com/crix26/face-shield/blob/master/README.md) erstellt aktuell Christoph C. Mit Yannics Einstellungen könnt ihr ein Oberteil mit einem prusa i3 in PETG in ca. **0:43h** drucken. Zwei Gestelle gleichzeitig in 1:27h.
@@ -82,6 +78,7 @@ Beachtet bitte, dass es sich hierbei um PET und nicht um PETG handelt. Der Schme
 * Nozzle: 220°C 
 * Lüfter: 100%, durchgängig an, bis auf die ersten 1-2 Schichten
 * Geschwindigkeit: max 60mm/s
+* retraction Speed: 45mm/s vermindert das stringing nochmal ein wenig. Wenn ihr unsicher seid, lasst die default Einstellungen
 
 Ein wenig stringing hatten wir auch mit diesen Einstellungen noch. Meldet euch gerne im channel, wenn ihr Probleme oder bessere Einstellungen gefunden habt.
 
@@ -120,10 +117,12 @@ Im Google Docs gibt es eine Ampel, ob das Lab besetzt ist. Fragt bitte vorher zu
 
 Für alle die keine Möglichkeit haben, die Teile in Karlsruhe oder Bruchsal abzugeben, gibt auch ca. 2 mal die Woche eine Abholtour, bei der ihr eure Teile kontaktlos abholen lassen könnt. 
 
-Bitte schnürt die Gestelle in 5er Paketen mit Schnur oder Draht zusammen und hängt einen Anhänger mit slack-ID/e-Mail Adresse an. So können wir euch Feedback geben, wenn wir beim Zusammenbau auf Probleme stossen. Hier gibt es Vorlagen zum Lochen oder für Klebelabel:
+Damit wir euch bei Problemen direkt ansprechen können, bitte die Gestelle in einem Müllbeutel verpacken und einen Zettel mit folgenden Infos dazu legen:
+* Name
+* Slack ID
+* Material
+* Druckdatum/Zeitraum
 
-* [Label für Libreoffice](https://github.com/towaho/hub-karlsruhe/raw/master/doc/label.odt)
-* [Label für MS Office](https://github.com/towaho/hub-karlsruhe/raw/master/doc/label.docx)
 
 ![Fertig zur Abgabe][package]
 
