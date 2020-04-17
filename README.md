@@ -73,8 +73,10 @@ Das Drucken der Gestelle ist kein Wettbewerb wer am meisten druckt. Wenn ihr nic
 Aktuell raten wir davon ab, die Gestelle übereinander als Stacks zu drucken. Die bisherigen Erfahrungen haben gezeigt, dass gut 80% der Stacks nicht verwendbar sind (kleben zu stark aneinander, Boden schlecht verklebt, Probleme beim Desinfizieren).
 
 ### Empfehlungen für das BASF PET Fillament
-Beachtet bitte, dass es sich hierbei um PET und nicht um PETG handelt. Der Schmelzpunkt ist niedriger und somit auch die Drucktemperatur. Als Ausgangswerte für eigene Tests eignen sich:
-* Druckbett 75°C
+Beachtet bitte, dass es sich hierbei um PET und nicht um PETG handelt. Der Schmelzpunkt ist niedriger und somit auch die Drucktemperatur. Wenn ihr ein PEI beschichtes Druckbett nutzt, dann solltet ihr beim ersten Druck die z-Achse 0.1mm höher (weiter Weg vom Druckbett) einstellen und euch in 0.01er Schritten an 0 annähern. ZU NAH AM BETT = RISIKO dass die Beschichtung beim Ablösen am Druckteil statt am Druckbett klebt! Löst die Teile am besten, bevor das Druckbett vollständig abgekühlt ist. 
+
+Als Ausgangswerte für eigene Tests eignen sich:
+* Druckbett 75°C (wenn die Haftung zu stark ist, senkt die Temperatur ein wenig)
 * Nozzle: 220°C 
 * Lüfter: 100%, durchgängig an, bis auf die ersten 1-2 Schichten
 * Geschwindigkeit: max 60mm/s
