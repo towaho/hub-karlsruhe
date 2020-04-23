@@ -139,3 +139,56 @@ Falls wir die gelieferten Teile nicht im Sheet eingetragen haben, meldet euch bi
 [delamination]: images/delamination.jpg "Delamination"
 [package]: images/package.jpg "Fertig zur Abgabe"
 
+
+
+## **Auslieferung**
+
+Vielen Dank, dass du dich bereit erklärt hast auch fertig verpackte Gestelle auszuliefern.
+
+Im folgenden sind einige Dinge beschrieben, die es zu beachten gibt, sowie FAQ.
+
+### Auftragsbearbeitung/Zugriff auf die Tabelle
+
+Die Auftragsbearbeitung wird über ein extra Google Sheet organisiert. Dies hat den Grund, dass die Kundendaten nicht für alle öffentlich einsehbar sein sollen. Kommt ein Auftrag über das Formular auf der Website rein, landet dies automatisch im Reiter "Kunden Daten". In den Reitern "[Labstandort]-Schilde offen" und "[Labstandort]-Masken offen] seht ihr welche Aufträge noch offen sind und entsprechend bearbeitet werden müssen/sollen.
+
+Wichtig ist der Status der Bestellung. Steht dieser auf "In Herstellung" kann man sich den Auftrag zur Auslieferung reservieren. Mehr dazu in Ablauf Auslieferung.
+
+Zugriff auf die Tabelle erhaltet ihr von einem der Admins. Das sind derzeit Robert & Nils R. .
+
+Vor allem Robert schreibt des Öfteren Nachrichten zum Koordinieren, welche Lieferungen für den jeweiligen Tag anstehen. Diese sollten priorisiert abgearbeitet werden.
+
+### Ablauf Auslieferung
+
+1. Zugriff auf die Tabelle (siehe oben)
+2. Auftrag von Robert (oder Nils) annehmen oder initiativ Auftrag annehmen (eher zu empfehlen wenn man schon einige Aufträge ausgeliefert hat und die Abläufe und Priorisierungen kennt)
+3. In die Tabelle bei "Auslieferung durch" eintragen [Wichtig: Immer im Reiter "Kundendaten" Eintragungen vornehmen]
+4. Klären, wann du die Lieferung im Lab abholen kannst. Im Reiter Kundendaten steht in der Spalte "sammeln in" wo du die Lieferung holen kannst.
+5. Beim Kunden anrufen und Bescheid geben, dass und wann du vorhast auszuliefern. Eventuell Termin ausmachen, wenn nicht am selben Tag möglich.
+6. Status von "In Herstellung" auf "In Auslieferung" ändern
+7. Ausliefern (dabei erwähnen, dass wir uns immer über Bilder der Masken "Im Einsatz" zur Veröffentlichung auf unserer Website freuen) 
+8. Status von "In Auslieferung" auf "Erledigt" ändern, Datum bei "Erledigt am" eintragen, Summe bei "[Art der Lieferung]-Erledigt-[Labstandort]" eintragen
+
+
+
+Herzlichen Glückwunsch. Du hast erfolgreich deine erste Auslieferung durchgeführt! 
+
+### FAQ oder was du noch wissen solltest: [bzgl. Auslieferung]
+
+**Wie gehe ich mit Spenden um?**
+
+Am Besten ist es, du verweist den Kunden auf das Spendenformular auf der Website. In der Regel stehen die Informationen dazu auch auf dem Zettel, welcher der Verpackung beigelegt ist.
+
+Manche Einrichtungen oder Arztpraxen drücken einem auch manchmal einfach einen Umschlag in die Hand. Dieser sollte dann im Lab abgegeben werden. [Wichtig. Wenn der Kunde eine Spendenquittung wünscht, muss die Spende über das Spendenformular stattfinden!]
+
+**Was soll ich sagen, wenn nach dem Preis gefragt wird?**
+
+Grundsätzlich lautet die Antwort, dass die Schilde von uns kostenlos geliefert werden. Allerdings ist es schlau, immer darauf zu verweisen, dass wir ein Spendenformular haben und uns immer über Spenden freuen, da das Ganze nur so finanziert wird. [Wichtig: Die Spende ist freiwillig und so muss das auch kommuniziert werden. Es gibt auch Einrichtungen, denen schlichtweg das Geld fehlt und genau dafür gibt es uns ja]
+
+**Was soll ich am Telefon sagen?**
+
+Da gibt es kein Universalrezept. Ich [Michael Ewig] sage immer, dass ich von MakerVsVirus/CoronaHilfe Karlsruhe bin, es um die Gesichtsmasken geht, die bei uns bestellt wurden und dass ich diese gerne zu Zeitpunkt XY ausliefern will (und ob das möglich ist). Oder eine Variation davon.
+
+**Ich habe noch Fragen und weiß nicht an wen ich mich melden soll.**
+
+Generell ist Nils R. (Auftragsbearbeitung) immer eine gute Anlaufstelle für alle Themen der Auftragsbearbeitung und Auslieferung. Antworten können auch Robert [FabLab KA] oder Michael Ewig [Hub Karlsruhe] liefern.
+
