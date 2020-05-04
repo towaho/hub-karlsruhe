@@ -55,6 +55,8 @@ Wenn ihr Probleme mit dem Druck habt, meldet euch bitte im channel und schickt b
 **Entfernt bitte stringing (auch dünne Fäden) vor der Abgabe** 
 
 ## Abgabe/Abholung
+**Bündelt bitte immer 10 Teile mit Kabelbinder oder Draht**
+
 Abgeben könnt die fertig gedruckten Teile in einem der beiden FabLabs:
 
 **FabLab Karlsruhe e.V.**
@@ -74,7 +76,6 @@ Tel.: +49 151 25351131
 
 Im Google Docs gibt es eine Ampel, ob das Lab besetzt ist. Fragt bitte vorher zur Sicherheit noch einmal telefonisch nach, damit ihr euch nicht umsonst auf den Weg macht.
 
-Für alle die keine Möglichkeit haben, die Teile in Karlsruhe oder Bruchsal abzugeben, gibt auch ca. 2 mal die Woche eine Abholtour, bei der ihr eure Teile kontaktlos abholen lassen könnt. 
 
 Damit wir euch bei Problemen direkt ansprechen können, bitte die Gestelle in einem Müllbeutel verpacken und einen Zettel mit folgenden Infos dazu legen:
 * Name
