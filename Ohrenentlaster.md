@@ -55,7 +55,7 @@ Wenn ihr Probleme mit dem Druck habt, meldet euch bitte im channel und schickt b
 **Entfernt bitte stringing (auch dünne Fäden) vor der Abgabe** 
 
 ## Abgabe/Abholung
-**Bündelt bitte immer 10 Teile mit Kabelbinder oder Draht**
+**Bündelt bitte immer 10 Teile mit Kabelbinder oder Draht und packt sie am besten in einen Gefriebeuten. Bitte nicht lose abgeben.**
 
 Abgeben könnt die fertig gedruckten Teile in einem der beiden FabLabs:
 
