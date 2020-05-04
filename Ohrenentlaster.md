@@ -18,7 +18,7 @@ Mit den Einstellungen aus der Projektdatei könnt ihr 7 Stück in ca. 24 (PETG) 
 Wenn ihr [unsere Projektdatei](https://github.com/towaho/hub-karlsruhe/raw/master/stl/surgical-mask-strap-light_long-table-v5.3mf) nutzt, sind die von Yannic beschriebenen Einstellungen schon alle mit drin. Um die angebenenen Druckzeiten zu erreichen, müsst ihr aber auch noch wie von Yannic beschrieben die Werte für "Max volumetric speed" unter "Filament Settings" -> Advanced -> "Print speed override" anpassen. Das BASF PET kann man beim Prusa i3 mk3 auf ca. 10-12 mm³/s setzen. PETG könnt ihr mit 15-17 mm³/s drucken. Wenn ihr Lücken im Druck habt, dann müsst ihr den Wert verringern. 
 
 ### Empfehlungen für das BASF PET Fillament
-Beachtet bitte, dass es sich hierbei um PET und nicht um PETG handelt. Der Schmelzpunkt ist niedriger und somit auch die Drucktemperatur. Wenn ihr ein PEI beschichtes Druckbett nutzt, dann solltet ihr beim ersten Druck die z-Achse 0.1mm höher (weiter Weg vom Druckbett) einstellen und euch in 0.01er Schritten an 0 annähern. ZU NAH AM BETT = RISIKO dass die Beschichtung beim Ablösen am Druckteil statt am Druckbett klebt! Löst die Teile am besten, bevor das Druckbett vollständig abgekühlt ist (sie müssen aber kurz abkühlen, damit sie sich beim Ablösen nicht verziehen). Im Gegensatz zu den Gestellen, haften diese Teile aufgrund der größeren Fläche deutlich besser. Ihr könnt somit in den meisten Fällen die Temperatur des Druckbetts reduzieren. 
+Beachtet bitte, dass es sich hierbei um PET und nicht um PETG handelt. Der Schmelzpunkt ist niedriger und somit auch die Drucktemperatur. Wenn ihr ein PEI beschichtetes Druckbett nutzt, dann solltet ihr beim ersten Druck die z-Achse 0.1mm höher (weiter Weg vom Druckbett) einstellen und euch in 0.01er Schritten an 0 annähern. ZU NAH AM BETT = RISIKO dass die Beschichtung beim Ablösen am Druckteil statt am Druckbett klebt! Löst die Teile am besten, bevor das Druckbett vollständig abgekühlt ist (sie müssen aber kurz abkühlen, damit sie sich beim Ablösen nicht verziehen). Im Gegensatz zu den Gestellen, haften diese Teile aufgrund der größeren Fläche deutlich besser. Ihr könnt somit in den meisten Fällen die Temperatur des Druckbetts reduzieren. 
 
 Als Ausgangswerte für eigene Tests eignen sich:
 * Druckbett ca. 60°C (wenn die Haftung zu stark ist, senkt die Temperatur ein wenig; Prusa i3 mk3 druckt mit powded bed bei 55°C wunderbar)
@@ -38,7 +38,7 @@ Prüft bitte, bei jeder Charge, ob sich die Teile gut biegen lassen:
 ![Qualitätstest3][quali2] 
 
 
-Hier seht ihr ein paar typische Probleme und Hinweis, was zu tun ist:
+Hier seht ihr ein paar typische Probleme und Hinweise, was zu tun ist:
 
 **Druck mit Infill**
 Wenn eure Ösen keine Löcher haben, habt ihr mit Infill gedruckt. Das erhöht die Druckzeit und ist meist nicht verwendbar. Hier verfangen sich leicht die Haare:
@@ -48,14 +48,17 @@ Wenn eure Ösen keine Löcher haben, habt ihr mit Infill gedruckt. Das erhöht d
 Wenn ihr solche Unterbrechungen im Druck habt, schafft der Drucker den Volumenstrom nicht. Ihr müsst "Max volumetric speed" reduzieren.
 ![zu hoher Volumenstrom][strap_nok2]
 
-Wenn ihr Probleme mit dem Druck habt, meldet euch bitte im channel und schickt bitte ein Foto des Drucks mit. Wenn ihr auch mit Unterstützung und Nachjustierung die hier beschriebene Qualität mit eurem Drucker nicht erreichen könnt, dann macht es leider wenig Sinn, die Teile weiter zu drucken.
+Wenn ihr Probleme mit dem Druck habt, meldet euch bitte im channel und schickt bitte ein Foto des Drucks mit.
+
+**Wenn ihr auch mit Unterstützung und Nachjustierung die hier beschriebene Qualität mit eurem Drucker nicht erreichen könnt, dann macht es leider wenig Sinn, die Teile weiter zu drucken.**
+
 
 
 
 **Entfernt bitte stringing (auch dünne Fäden) vor der Abgabe** 
 
 ## Abgabe/Abholung
-Abgeben könnt die fertig gedruckten Teile in einem der beiden FabLabs:
+Wir haben in der Orga Tabelle einen Tab für die Ohrenentlastung angelegt. Tragt eure Drucke bitte dort genau so ein, wie bisher bei den Gestellen. Abgeben könnt die fertig gedruckten Teile in einem der beiden FabLabs:
 
 **FabLab Karlsruhe e.V.**
 ```
