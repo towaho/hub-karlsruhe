@@ -13,7 +13,7 @@ Long Version [Surgical_Mask_Strap_light_long_v5.stl von Yannic Schröder](https:
 Für den Prusa i3 mit der Standard 0.4er nozzle findet ihr [hier eine fertige Projektdatei](https://github.com/towaho/hub-karlsruhe/raw/master/stl/surgical-mask-strap-light_long-table-v5.3mf) mit 7 Stück auf einem Druckbett.
 
 ## Druck
-Mit den Einstellungen aus der Projektdatei könnt ihr 7 Stück in ca. 30 Minuten drucken. Für den Prusa i3 mk3 haben wir eine fertige Projektdatei. Für andere Drucker findet ihr [hier die Hinweise von Yannic](https://www.prusaprinters.org/prints/30406-surgical-mask-strap-light). **HINWEIS:** In dieser Projektdatei ist die Standardversion enthalten. Wir drucken aktuell die Long Version 5. 
+Mit den Einstellungen aus der Projektdatei könnt ihr 7 Stück in ca. 24 (PETG) - 30 (PET) Minuten drucken. Für den Prusa i3 mk3 haben wir eine fertige Projektdatei. Für andere Drucker findet ihr [hier die Hinweise von Yannic](https://www.prusaprinters.org/prints/30406-surgical-mask-strap-light). **HINWEIS:** In dieser Projektdatei ist die Standardversion enthalten. Wir drucken aktuell die Long Version 5. 
 
 Wenn ihr [unsere Projektdatei](https://github.com/towaho/hub-karlsruhe/raw/master/stl/surgical-mask-strap-light_long-table-v5.3mf) nutzt, sind die von Yannic beschriebenen Einstellungen schon alle mit drin. Um die angebenenen Druckzeiten zu erreichen, müsst ihr aber auch noch wie von Yannic beschrieben die Werte für "Max volumetric speed" unter "Filament Settings" -> Advanced -> "Print speed override" anpassen. Das BASF PET kann man beim Prusa i3 mk3 auf ca. 10-12 mm³/s setzen. PETG könnt ihr mit 15-17 mm³/s drucken. Wenn ihr Lücken im Druck habt, dann müsst ihr den Wert verringern. 
 
