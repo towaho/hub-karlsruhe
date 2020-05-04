@@ -59,6 +59,7 @@ Wenn ihr Probleme mit dem Druck habt, meldet euch bitte im channel und schickt b
 
 ## Abgabe/Abholung
 **Bündelt bitte immer 10 Teile mit Kabelbinder oder Draht und packt sie am besten in einen Gefriebeuten. Bitte nicht lose abgeben.**
+![Bündel][stack]
 
 Wir haben in der Orga Tabelle einen Tab für die Ohrenentlastung angelegt. Tragt eure Drucke bitte dort genau so ein, wie bisher bei den Gestellen. Abgeben könnt die fertig gedruckten Teile in einem der beiden FabLabs:
 
@@ -93,6 +94,7 @@ Falls wir die gelieferten Teile nicht im Sheet eingetragen haben, meldet euch bi
 [strap_ok]: images/strap_ok.jpg "Ohrenentlastung ok"
 [strap_nok]: images/strap_nok.jpg "Ohrenentlastung Infill"
 [strap_nok2]: images/strap_nok2.jpg "Ohrenentlastung Volumenstrom"
+[stack]: images/stack.jpg "Bündel"
 [quali1]: https://media.prusaprinters.org/thumbs/cover/640x480/media/prints/30406/images/302146_9f2713b5-90f6-4e76-930d-09c3edcbd2a6/img_7446.jpg "Qualitätstest1"
 [quali2]: https://media.prusaprinters.org/thumbs/cover/640x480/media/prints/30406/images/302147_2a2984e1-f2fe-46d2-af92-ccdb00599e71/img_7440.jpg "Qualitätstest2"
 [quali2]: https://media.prusaprinters.org/thumbs/cover/640x480/media/prints/30406/images/302148_9b7cb500-3687-43e3-9823-841517991fbf/img_7447.jpg "Qualitätstest3"
