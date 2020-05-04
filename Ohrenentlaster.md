@@ -1,7 +1,7 @@
 # Herstellung Ohrenentlastung
 Hier findet ihr alle wichtigen Informationen zum Druck der Ohrenentlaster. Es gibt im Netz sehr viele Versionen und Varianten. Wir haben uns in Karlsruhe für die light Version von Yannic entschieden. Wir drucken bis auf weiteres erst einmal nur die Lang-Version.
 
-![strap][Ohrenentlastung]
+![Ohrenentlastung][strap]
 
 ## Material
 Bitte nur PET,PETG oder ABS verwenden. Wenn ihr nur PLA drucken könnt, dann bitte vorab mit uns abklären. Farbe ist auch hier grundsätzlich egal. Häufig gewünscht werden helle Farben (weiß, gelb, grün). Grundsätzlich könnt ihr alle Farben drucken, die eurer Meinung nach Ärzte und Pfleger gerne tragen.
@@ -30,23 +30,23 @@ Als Ausgangswerte für eigene Tests eignen sich:
 Viel wichtiger als die Druckzeit ist, dass die Qualität stimmt. Reduziert im Zweifelsfall lieber die Geschwindigkeit. Ausschus bitte separat sammeln und als Ausschuss im FabLab abgeben. 
 
 Hier seht ihr, wie die fertigen Teile aussehen sollen:
-![strap_ok][So sollten die Teile aussehen]
+![So sollten die Teile aussehen][strap_ok]
 
 Prüft bitte, bei jeder Charge, ob sich die Teile gut biegen lassen:
-![quali1][Qualitätstest1] 
-![quali2][Qualitätstest2] 
-![quali2][Qualitätstest3] 
+![Qualitätstest1][quali1]
+![Qualitätstest2][quali2] 
+![Qualitätstest3][quali2] 
 
 
 Hier seht ihr ein paar typische Probleme und Hinweis, was zu tun ist:
 
 **Druck mit Infill**
 Wenn eure Ösen keine Löcher haben, habt ihr mit Infill gedruckt. Das erhöht die Druckzeit und ist meist nicht verwendbar. Hier verfangen sich leicht die Haare:
-![strap_nok][mit Infill gedruckt]
+![mit Infill gedruckt][strap_nok]
 
 **Volumenstrom zu hoch**
 Wenn ihr solche Unterbrechungen im Druck habt, schafft der Drucker den Volumenstrom nicht. Ihr müsst "Max volumetric speed" reduzieren.
-![strap_nok2][zu hoher Volumenstrom]
+![zu hoher Volumenstrom][strap_nok2]
 
 Wenn ihr Probleme mit dem Druck habt, meldet euch bitte im channel und schickt bitte ein Foto des Drucks mit. Wenn ihr auch mit Unterstützung und Nachjustierung die hier beschriebene Qualität mit eurem Drucker nicht erreichen könnt, dann macht es leider wenig Sinn, die Teile weiter zu drucken.
 
