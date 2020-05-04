@@ -58,6 +58,8 @@ Wenn ihr Probleme mit dem Druck habt, meldet euch bitte im channel und schickt b
 **Entfernt bitte stringing (auch dünne Fäden) vor der Abgabe** 
 
 ## Abgabe/Abholung
+**Bündelt bitte immer 10 Teile mit Kabelbinder oder Draht und packt sie am besten in einen Gefriebeuten. Bitte nicht lose abgeben.**
+
 Wir haben in der Orga Tabelle einen Tab für die Ohrenentlastung angelegt. Tragt eure Drucke bitte dort genau so ein, wie bisher bei den Gestellen. Abgeben könnt die fertig gedruckten Teile in einem der beiden FabLabs:
 
 **FabLab Karlsruhe e.V.**
@@ -77,9 +79,8 @@ Tel.: +49 151 25351131
 
 Im Google Docs gibt es eine Ampel, ob das Lab besetzt ist. Fragt bitte vorher zur Sicherheit noch einmal telefonisch nach, damit ihr euch nicht umsonst auf den Weg macht.
 
-Für alle die keine Möglichkeit haben, die Teile in Karlsruhe oder Bruchsal abzugeben, gibt auch ca. 2 mal die Woche eine Abholtour, bei der ihr eure Teile kontaktlos abholen lassen könnt. 
 
-Damit wir euch bei Problemen direkt ansprechen können, bitte die Gestelle in einem Müllbeutel verpacken und einen Zettel mit folgenden Infos dazu legen:
+Damit wir euch bei Problemen direkt ansprechen können, bitte folgenden Infos dazu legen:
 * Name
 * Slack ID
 * Material
